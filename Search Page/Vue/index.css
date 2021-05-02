@@ -1,0 +1,383 @@
+.page {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  
+  .wrapper-inner {
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-direction: column;
+    width: 192vw;
+    height: 60.53vw;
+  }
+  
+  .main {
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 39.73vw;
+    border-width: 1px;
+    border-radius: 3.73vw;
+    border-color: #979797;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5),
+      inset 0 1px 3px 0 rgba(0, 0, 0, 0.5);
+    border-style: solid;
+  }
+  
+  .tag-wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-right: 0.27vw;
+    width: 8vw;
+    height: 7.47vw;
+    font-weight: NaN;
+    line-height: 2vw;
+    white-space: nowrap;
+  }
+  
+  .tag {
+    margin-top: -0.13vw;
+    margin-left: 3.87vw;
+    max-width: 5.07vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #000000;
+    font-family: AppleColorEmoji, Apple Color Emoji;
+    font-size: 2vw;
+  }
+  
+  .view {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    width: 86.53vw;
+    height: 7.47vw;
+  }
+  
+  .vertical-line {
+    margin-left: -0.27vw;
+    width: 0.27vw;
+    height: 5.07vw;
+  }
+  
+  .tagsn {
+    position: relative;
+    margin-top: 5.33vw;
+    max-width: 190.4vw;
+    height: 2.8vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 2.8vw;
+    white-space: nowrap;
+    color: #c97143;
+    font-size: 2vw;
+    font-weight: 400;
+  }
+  
+  .wrapper-inner-1 {
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 0.13vw;
+    width: 192vw;
+    height: 75.87vw;
+  }
+  
+  .divider {
+    position: relative;
+    margin-top: -0.13vw;
+    width: 74.67vw;
+    height: 0.13vw;
+  }
+  
+  .main-1 {
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-top: 6.93vw;
+  }
+  
+  .view-1 {
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .mask {
+    margin-right: 4.53vw;
+    border-width: 1px;
+    border-radius: 1.6vw;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-color: #979797;
+    background-color: #ff6201;
+    width: 16.67vw;
+    height: 3.33vw;
+  }
+  
+  .overlayer {
+    margin-right: 4.53vw;
+    border-width: 1px;
+    border-radius: 1.6vw;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-color: #979797;
+    background-color: #01e4ff;
+    width: 12.4vw;
+    height: 3.33vw;
+  }
+  
+  .layer {
+    margin-right: 4.53vw;
+    border-width: 1px;
+    border-radius: 1.6vw;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-color: #979797;
+    background-color: #ff6201;
+    width: 24.4vw;
+    height: 3.33vw;
+  }
+  
+  .mask-1 {
+    margin-right: 4.53vw;
+    border-width: 1px;
+    border-radius: 1.6vw;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-color: #979797;
+    background-color: #01e4ff;
+    width: 12.4vw;
+    height: 3.33vw;
+  }
+  
+  .overlayer-1 {
+    border-width: 1px;
+    border-radius: 1.6vw;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-color: #979797;
+    background-color: #ff6201;
+    width: 12.4vw;
+    height: 3.33vw;
+  }
+  
+  .view-2 {
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5.33vw;
+  }
+  
+  .layer-1 {
+    margin-right: 4.53vw;
+    border-width: 1px;
+    border-radius: 1.6vw;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-color: #979797;
+    background-color: #53ff01;
+    width: 21.2vw;
+    height: 3.33vw;
+  }
+  
+  .mask-2 {
+    margin-right: 4.53vw;
+    border-width: 1px;
+    border-radius: 1.6vw;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-color: #979797;
+    background-color: #ff4801;
+    width: 7.87vw;
+    height: 3.33vw;
+  }
+  
+  .overlayer-2 {
+    margin-right: 4.53vw;
+    border-width: 1px;
+    border-radius: 1.6vw;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-color: #979797;
+    background-color: #01e4ff;
+    width: 10.27vw;
+    height: 3.33vw;
+  }
+  
+  .layer-2 {
+    margin-right: 4.53vw;
+    border-width: 1px;
+    border-radius: 1.6vw;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-color: #979797;
+    background-color: #ff6201;
+    width: 26.53vw;
+    height: 3.33vw;
+  }
+  
+  .mask-3 {
+    border-width: 1px;
+    border-radius: 1.6vw;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-color: #979797;
+    background-color: #53ff01;
+    width: 12.4vw;
+    height: 3.33vw;
+  }
+  
+  .view-3 {
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5.2vw;
+  }
+  
+  .overlayer-3 {
+    margin-top: 0.13vw;
+    margin-right: 4.53vw;
+    border-width: 1px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-radius: 1.6vw;
+    border-color: #979797;
+    background-color: #ff6201;
+    width: 8.4vw;
+    height: 3.33vw;
+  }
+  
+  .layer-3 {
+    margin-top: 0.13vw;
+    margin-right: 4.53vw;
+    border-width: 1px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-radius: 1.6vw;
+    border-color: #979797;
+    background-color: #01e4ff;
+    width: 18vw;
+    height: 3.33vw;
+  }
+  
+  .mask-4 {
+    margin-top: -0.13vw;
+    margin-right: 4.53vw;
+    border-width: 1px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-radius: 1.6vw;
+    border-color: #979797;
+    background-color: #ff6201;
+    width: 10.27vw;
+    height: 3.33vw;
+  }
+  
+  .overlayer-4 {
+    margin-top: 0.13vw;
+    margin-right: 4.53vw;
+    border-width: 1px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-radius: 1.6vw;
+    border-color: #979797;
+    background-color: #53ff01;
+    width: 12.27vw;
+    height: 3.33vw;
+  }
+  
+  .layer-4 {
+    margin-top: 0.13vw;
+    border-width: 1px;
+    border-radius: 1.6vw;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-color: #979797;
+    background-color: #01e4ff;
+    width: 27.73vw;
+    height: 3.33vw;
+  }
+  
+  .view-4 {
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5.33vw;
+  }
+  
+  .mask-5 {
+    margin-right: 4.53vw;
+    border-width: 1px;
+    border-radius: 1.6vw;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-color: #979797;
+    background-color: #01e4ff;
+    width: 16.67vw;
+    height: 3.33vw;
+  }
+  
+  .overlayer-5 {
+    margin-right: 4.53vw;
+    border-width: 1px;
+    border-radius: 1.6vw;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-color: #979797;
+    background-color: #ff6201;
+    width: 12.4vw;
+    height: 3.33vw;
+  }
+  
+  .layer-5 {
+    margin-right: 4.53vw;
+    border-width: 1px;
+    border-radius: 1.6vw;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-color: #979797;
+    background-color: #01e4ff;
+    width: 24.4vw;
+    height: 3.33vw;
+  }
+  
+  .mask-6 {
+    margin-right: 4.53vw;
+    border-width: 1px;
+    border-radius: 1.6vw;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-color: #979797;
+    background-color: #01e4ff;
+    width: 12.4vw;
+    height: 3.33vw;
+  }
+  
+  .overlayer-6 {
+    border-width: 1px;
+    border-radius: 1.6vw;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.63);
+    border-style: solid;
+    border-color: #979797;
+    background-color: #ff6201;
+    width: 12.4vw;
+    height: 3.33vw;
+  }
+  
+  
